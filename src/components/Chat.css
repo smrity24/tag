@@ -1,0 +1,141 @@
+.back {
+  position: absolute;
+  width: 61px;
+  height: 28px;
+  left: 18px;
+  top: 9px;
+  text-decoration: none;
+  text-align: center;
+  background: #c4c4c4;
+  border-radius: 24px;
+}
+.tags {
+  position: absolute;
+  width: 86px;
+  height: 22px;
+  left: 650px;
+  top: 1px;
+  font-variant: initial;
+  align-items: center;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 14px;
+  text-align: center;
+
+  color: #736b6b;
+
+  /* Gray 4 */
+
+  border: 3px solid #bdbdbd;
+}
+
+.searchbox {
+  position: relative;
+  width: 546px;
+  height: 42px;
+  left: 100px;
+  top: 99px;
+  font-size: 16px;
+
+  line-height: 14px;
+  text-align: center;
+  align-content: center;
+  background: #ffffff;
+  /* Gray 5 */
+
+  border: 2px solid #e0e0e0;
+  box-sizing: border-box;
+  border-radius: 45px;
+}
+.box {
+  position: relative;
+  width: 546px;
+  height: 32px;
+  left: 2px;
+  top: 94px;
+
+  background: #ffffff;
+  border: 2px solid rgba(0, 0, 0, 0.18);
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.search {
+  position: absolute;
+  width: 554px;
+  height: 52px;
+  left: 16px;
+  top: 49px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 24px;
+  /* or 200% */
+
+  text-align: center;
+
+  color: rgba(0, 0, 0, 0.5);
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.select {
+  /* Select People */
+
+  position: absolute;
+  width: 61px;
+  height: 28px;
+  left: 0px;
+  top: 229px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 25px;
+  /* or 179% */
+
+  color: #bababa;
+}
+
+.peoplebox {
+  position: absolute;
+  width: 570px;
+  height: 40px;
+  left: 0px;
+  top: 168px;
+
+  background: #c4c4c4;
+}
+.person {
+  position: absolute;
+  left: 2.11%;
+  right: 93.51%;
+  top: 42.21%;
+  bottom: 51.8%;
+
+  border-radius: 4px;
+}
+.personame {
+  position: absolute;
+  left: 8.6%;
+  right: 81.23%;
+  top: 41.49%;
+  bottom: 50.84%;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 25px;
+  /* or 208% */
+
+  text-align: center;
+
+  color: #263251;
+}
